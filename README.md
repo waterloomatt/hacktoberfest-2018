@@ -14,8 +14,7 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 4.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “hacktoberfest-2018” repo
 5.	[Watch the first 5 min of this video](https://www.youtube.com/watch?v=OVQK2zzb6U8) on how to make a new branch and commit changes to your forked repo, then create a branch structured “day#” with the day you chose in step 3 and commit your diary entry 
 6.	[Read this article](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) on how to make a pull request, then make a pull request that looks similar to the following image
-
-<img src="img/pull-request-settings.png">
+![PR settings](resources/img/pull-request-settings.png)
 
 7.	Let someone on the committee know about your pull request so they can approve it
 8.	See your contribution made under the branch named “master” in the Coffee ‘N Cod repo (not your forked repo)
@@ -26,7 +25,7 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 ## Additional Resources to Learn Git/GitHub
 1. [Interactive Git Tutorial](https://learngitbranching.js.org/)
 
-<img src="img/learn-git-tutorial.png">
+![Git Tutorial](resources/img/learn-git-tutorial.png)
 
 2. [Git/GitHub Video Playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
 3. [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
