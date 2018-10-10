@@ -1,9 +1,9 @@
-﻿Premise: 
+﻿Premise:
 By some clerical error in WaterlooWorks, our protagonist got an offer from a big tech company as a Junior Software Developer. They know they are surely under-qualified, but what-the-hey, the proposition for free meals and unlimited snacks meant the offer was accepted anyways!  Write an day’s entry in their journal, as our protagonist fakes it till they make it!
 
 Day 1:
 Dear diary,
-What's this "Microsoft Word" that everyone keeps talking about? Probably not that important! 
+What's this "Microsoft Word" that everyone keeps talking about? Probably not that important!
 
 Day 2:
 Dear diary,
@@ -17,6 +17,15 @@ writeen by: Gyeongwon Lee
 
 
 Got asked if my code was almost done this morning... am I supposed to be done? I still haven't finished the design recipe? Anyway, spent the rest of the day hiding on the toilet...... hope it goes better tomorrow.
+
+## Day [ 5 ]
+
+Dear Diary,
+
+[ Today my co-workers were talking something about a python. I'm really scared of snakes, so I was really scared when my manager told me to use a python to complete my project. ]
+
+_written by: [ Cooper Ang ]_
+___
 
 Day 4:
 Dear diary,
