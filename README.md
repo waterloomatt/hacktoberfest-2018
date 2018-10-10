@@ -8,16 +8,17 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 ## Instructions Checklist
 1.	Register for a [GitHub account](https://github.com/)
 
-<img src="img/github-signup/github_signup_1.png">
-<img src="img/github-signup/github_signup_2.png">
-<img src="img/github-signup/github_signup_3.png">
-<img src="img/github-signup/github_signup_4.png">
-<img src="img/github-signup/github_signup_5.png">
+![Github registration step 1](img/github-signup/github_signup_1.png)
+![Github registration step 2](img/github-signup/github_signup_2.png)
+![Github registration step 3](img/github-signup/github_signup_3.png)
+![Github registration step 4](img/github-signup/github_signup_4.png)
+![Github registration step 5](img/github-signup/github_signup_5.png)
 
 2.	Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register) using your GitHub account 
-
-<img src="img/hf-signup/hacktoberfest_signup_1.png">
-<img src="img/hf-signup/hacktoberfest_signup_2.png">
+![Hacktoberfest registration step 1](img/hf-signup/hacktoberfest_signup_1.png)
+![Hacktoberfest registration step 2](img/hf-signup/hacktoberfest_signup_2.png)
+![Hacktoberfest registration step 3](img/hf-signup/hacktoberfest_signup_3.png)
+![Hacktoberfest registration step 4](img/hf-signup/hacktoberfest_signup_4.png)
 
 3.	[Enter your name](http://bit.ly/2C3XZ0t) next to the day you want to write for in our protagonist’s diary
 4.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “hacktoberfest-2018” repo
