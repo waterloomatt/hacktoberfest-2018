@@ -18,3 +18,9 @@ Repository for activities during Coffee 'N Code's Hacktoberfest 2018.
 
 9. ???
 10. Profit $$$
+
+## Additional Resources to Learn Git/GitHub
+1. [Interactive Git Tutorial](https://learngitbranching.js.org/)
+2. [Git/GitHub Video Playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+3. [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+4. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
