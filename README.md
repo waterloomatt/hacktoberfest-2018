@@ -1,9 +1,11 @@
-# Hacktoberfest 2018 
+# Coffee 'N Code's Hacktoberfest 2018 
 
-Repository for activities during Coffee 'N Code's Hacktoberfest 2018.
+To celebrate Hacktoberfest 2018, we will all be contributing to an “open source” story! No programming required and have fun writing!
+
+## Story Prompt
+By some clerical error in WaterlooWorks, our protagonist got an offer from a big tech company as a Junior Software Developer. They know they are surely under-qualified, but what-the-hey, the proposition for free meals and unlimited snacks meant the offer was accepted anyways!  Write an day’s entry in their journal, as our protagonist fakes it till they make it!
 
 ## Instructions Checklist
-
 1.	Register for a [GitHub account](https://github.com/)
 2.	Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register) using your GitHub account 
 3.	[Pick the day](http://bit.ly/2C3XZ0t) you’ll be writing for in our protagonist’s diary
