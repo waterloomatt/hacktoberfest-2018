@@ -18,8 +18,11 @@ Dear diary,
 Haven't left the toilet yet.... Not sure what to do from here. Toilet water has been keeping me hydrated, 
 but I ran out of snacks 36 hours ago...
 
+Day 7:
+Dear diary,
+Learned about git today. Made my first commit! Hope my coworkers didn't notice...
+
 Day 7.5:
 Dear diary,
 woke up in the hospital today... guess they found me after I passed out and fell off the toilet?
 Hope I don't lose my job!
-
