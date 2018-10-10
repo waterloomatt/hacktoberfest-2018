@@ -4,6 +4,5 @@ Dear Diary,
 
 [ JOURNAL ENTRY HERE... ]
 
+_written by: [ YOUR NAME HERE ]_
 ___
-
-written by: [ YOUR NAME HERE ]

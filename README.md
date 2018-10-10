@@ -1,4 +1,6 @@
-# Coffee 'N Code's Hacktoberfest 2018 
+![Hacktoberfest UW Banner](resources/img/hacktoberfest_banner.jpg)
+
+---
 
 To celebrate Hacktoberfest 2018, we will all be contributing to an “open source” story! No programming required and have fun writing!
 
