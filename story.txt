@@ -1,8 +1,10 @@
-Premise: 
+﻿Premise: 
 By some clerical error in WaterlooWorks, our protagonist got an offer from a big tech company as a Junior Software Developer. They know they are surely under-qualified, but what-the-hey, the proposition for free meals and unlimited snacks meant the offer was accepted anyways!  Write an day’s entry in their journal, as our protagonist fakes it till they make it!
 
 Day 1:
+Dear diary,
 What's this "Microsoft Word" that everyone keeps talking about? Probably not that important! 
 
 Day 2:
+Dear diary,
 I hope they don't find out how much I've lied on my resume! I honestly don't know half of the words on there.
