@@ -7,6 +7,13 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 
 ## Instructions Checklist
 1.	Register for a [GitHub account](https://github.com/)
+
+<img src="img/github-signup/github_signup_1.png">
+<img src="img/github-signup/github_signup_2.png">
+<img src="img/github-signup/github_signup_3.png">
+<img src="img/github-signup/github_signup_4.png">
+<img src="img/github-signup/github_signup_5.png">
+
 2.	Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register) using your GitHub account 
 3.	[Pick the day](http://bit.ly/2C3XZ0t) you’ll be writing for in our protagonist’s diary
 4.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “hacktoberfest-2018” repo
