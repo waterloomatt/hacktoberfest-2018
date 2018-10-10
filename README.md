@@ -12,17 +12,25 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 
 2.	[Register for Hacktoberfest using this guide](resources/hacktoberfest_signup_instructions.md).
 
-3.	[Enter your name](http://bit.ly/2C3XZ0t) next to the day you want to write for in our protagonist’s diary
-4.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “hacktoberfest-2018” repo
-5.	[Watch the first 5 min of this video](https://www.youtube.com/watch?v=OVQK2zzb6U8) on how to make a new branch and commit changes to your forked repo, then create a branch structured “day#” with the day you chose in step 3 and commit your diary entry 
-6.	[Read this article](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) on how to make a pull request, then make a pull request that looks similar to the following image
+3.	[Enter your name](http://bit.ly/2C3XZ0t) next to the day you want to write for in our protagonist’s diary.
+
+4.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “hacktoberfest-2018” repo.
+
+5.	[Watch the first 5 min of this video](https://www.youtube.com/watch?v=OVQK2zzb6U8) on how to make a new branch and commit changes to your forked repo.
+
+6. Create a branch with a name structured “day#” with the day you chose in step 3.
+
+7. Within this branch, write a diary entry using [this template](resources/diary_entry_template.md), and commit your change.
+
+8. [Read this article](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) on how to make a pull request, then make a pull request that looks similar to the following image.
+
 ![PR settings](resources/img/pull-request-settings.png)
 
-7.	Let someone on the committee know about your pull request so they can approve it
-8.	See your contribution made under the branch named “master” in the Coffee ‘N Cod repo (not your forked repo)
+9.	Let someone on the committee know about your pull request so they can approve it
+10.	See your contribution made under the branch named “master” in the Coffee ‘N Cod repo (not your forked repo)
 
-9. ???
-10. Profit $$$
+11. ???
+12. Profit $$$
 
 ## Additional Resources to Learn Git/GitHub
 1. [Interactive Git Tutorial](https://learngitbranching.js.org/)
