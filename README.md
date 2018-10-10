@@ -24,7 +24,7 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 ## Additional Resources to Learn Git/GitHub
 1. [Interactive Git Tutorial](https://learngitbranching.js.org/)
 
-<img src="img/"learn-git-tutorial.png">
+<img src="img/"learn-git-tutorial.PNG">
 
 2. [Git/GitHub Video Playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
 3. [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
