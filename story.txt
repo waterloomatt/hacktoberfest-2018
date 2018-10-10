@@ -47,6 +47,8 @@ Dear diary,
 woke up in the hospital today... guess they found me after I passed out and fell off the toilet?
 Hope I don't lose my job!
 
+
+
 Day 10:
 Dear Diary,
 My palms are sweaty//
@@ -61,6 +63,14 @@ They're giving out free food,
 But where's my shirt?
 
 By: Kevin Pratama
+
+Day 11:
+boolean isTheConditionTrue(String condition){
+  if(Boolean.toString(condition).equalsIgnoreCase("true")){
+    return true;
+  }
+}
+I don't know why my coworker was laughing at me...
 
 Day 15:
 Dear diary,
