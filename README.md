@@ -15,6 +15,10 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 <img src="img/github-signup/github_signup_5.png">
 
 2.	Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register) using your GitHub account 
+
+<img src="hf-signup/hacktoberfest_signup_1.png">
+<img src="hf-signup/hacktoberfest_signup_2.png">
+
 3.	[Pick the day](http://bit.ly/2C3XZ0t) you’ll be writing for in our protagonist’s diary
 4.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “hacktoberfest-2018” repo
 5.	[Watch the first 5 min of this video](https://www.youtube.com/watch?v=OVQK2zzb6U8) on how to make a new branch and commit changes to your forked repo, then create a branch structured “day#” with the day you chose in step 3 and commit your diary entry 
