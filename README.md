@@ -6,19 +6,9 @@ To celebrate Hacktoberfest 2018, we will all be contributing to an “open sourc
 By some clerical error in WaterlooWorks, our protagonist got an offer from a big tech company as a Junior Software Developer. They know they are surely under-qualified, but what-the-hey, the proposition for free meals and unlimited snacks meant the offer was accepted anyways!  Write an day’s entry in their journal, as our protagonist fakes it till they make it!
 
 ## Instructions Checklist
-1.	Register for a [GitHub account](https://github.com/)
+1.	If you do not have a Github account, [follow this guide to create one](resources/github_signup_instructions.md).
 
-![Github registration step 1](img/github-signup/github_signup_1.png)
-![Github registration step 2](img/github-signup/github_signup_2.png)
-![Github registration step 3](img/github-signup/github_signup_3.png)
-![Github registration step 4](img/github-signup/github_signup_4.png)
-![Github registration step 5](img/github-signup/github_signup_5.png)
-
-2.	Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register) using your GitHub account 
-![Hacktoberfest registration step 1](img/hf-signup/hacktoberfest_signup_1.png)
-![Hacktoberfest registration step 2](img/hf-signup/hacktoberfest_signup_2.png)
-![Hacktoberfest registration step 3](img/hf-signup/hacktoberfest_signup_3.png)
-![Hacktoberfest registration step 4](img/hf-signup/hacktoberfest_signup_4.png)
+2.	[Register for Hacktoberfest using this guide](resources/hacktoberfest_signup_instructions.md).
 
 3.	[Enter your name](http://bit.ly/2C3XZ0t) next to the day you want to write for in our protagonist’s diary
 4.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “hacktoberfest-2018” repo
