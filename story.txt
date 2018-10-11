@@ -4,6 +4,7 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 Day 1:
 Dear diary,
 What's this "Microsoft Word" that everyone keeps talking about? Probably not that important! 
+First time touching a computer! The mechanical keyboard sounds GREAT!!!
 
 Day 2:
 Dear diary,
@@ -15,7 +16,7 @@ Got asked if my code was almost done this morning... am I supposed to be done? I
 
 Day 6:
 Dear diary,
-Haven't left the toilet yet.... Not sure what to do from here. Toilet water has been keeping me hydrated, 
+Haven't left the toilet yet... Not sure what to do from here. What day is it today? Toilet water has been keeping me hydrated, 
 but I ran out of snacks 36 hours ago...
 
 Day 7:
@@ -27,6 +28,59 @@ Dear diary,
 woke up in the hospital today... guess they found me after I passed out and fell off the toilet?
 Hope I don't lose my job!
 
+Day 10:
+Dear Diary,
+My palms are sweaty//
+Knees weak, arms are heavy//
+I shouldn't have applied to this job//
+But I did it while eating mum's spagheti!//
+Written by : Lil Paul
+
+Day 11:
+Dead Diary, 
+But like..is everything free..
+Roses are red,
+Violets are blue,
+They're giving out free food,
+But where's my shirt?
+
+By: Kevin Pratama
+
+boolean isTheConditionTrue(String condition){
+  if(Boolean.toString(condition).equalsIgnoreCase("true")){
+    return true;
+  }
+}
+I don't know why my coworker was laughing at me...
+
+
+Day 12:
+Dear Diary,
+Let's git it!
+
+written by: Kevin Lee
+
+Day 15:
+Dear diary,
+Boss asked me to make a webpage for an upcoming event. Had to ask my friend Joshua to do it at the cost of sharing the reward with him. #FriendInNeedIsFriendIndeed
+
+Day 16:
+Dear diary,
+*scream*
+
+Day 17:
+Dear diary,
+My deskmate hid my stapler from me after yesterday.
+
+Day 18:
+Dear diary,
+don't know how but I'm still surviving.
+Hope I can get more FREE FOOD before they kick me out XD.
+written: Brandon Huh (BottleCold)
+
+Day 19:
+Dear diary,
+One of my coworkers lost his stick and I found it in the washroom. He has all his codes in it. If i steal these code I won't have any works for the next 3 days! Should I take it?
 
 Day 30:
 Dear diary,
