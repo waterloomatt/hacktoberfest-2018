@@ -154,6 +154,7 @@ Dear Diary,
 
 Hi first time github using and and push.
 written by: Zumhliansang Lungler
+What's up my second push
 
 Day 27:
 Got asked to help with one of my coworker's code. I told him I was in a rush and will get back to him 30 mins later. He got the help from somebody else later. Thank god I'm safe again
