@@ -55,6 +55,9 @@ I shouldn't have applied to this job//
 But I did it while eating mum's spagheti!//
 Written by : Lil Paul
 
+Day 11:
+Dead Diary, 
+But like..is everything free..
 Roses are red,
 Violets are blue,
 They're giving out free food,
@@ -62,7 +65,6 @@ But where's my shirt?
 
 By: Kevin Pratama
 
-Day 11:
 boolean isTheConditionTrue(String condition){
   if(Boolean.toString(condition).equalsIgnoreCase("true")){
     return true;
