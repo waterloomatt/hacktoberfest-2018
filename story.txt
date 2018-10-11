@@ -132,6 +132,9 @@ But whatever! As long I am sustaining myself, that's all that matters! #SelfCare
 Day 22:
 I promise to submit the code today but I don't have anything done. Told them my mom had a car accident and I have to go to the hospital. I got the pessmison to submit it tomorror. 
 
+
+
+
 Day 23:
 Dear diary,
 I am no longer allowed to have a sandwich, an umbrella, or a bobble-head after today's incident. They say the stains'll come out. Eventually. And that the pencil-pushers are mostly in one piece.
@@ -144,6 +147,14 @@ Dear diary,
 A suspicious-of-my-brilliant-skills co-worker asked me to point an error in her code.
 I randomly pointed to a line. She shouted excitely, "Darn those semi-colons!! Thanks. You can go now."
 #IAmSoLuckyIAmInLoveWithMyself
+
+## Day 26
+
+Dear Diary,
+
+Hi first time github using and and push.
+written by: Zumhliansang Lungler
+What's up my second push
 
 Day 27:
 Got asked to help with one of my coworker's code. I told him I was in a rush and will get back to him 30 mins later. He got the help from somebody else later. Thank god I'm safe again
