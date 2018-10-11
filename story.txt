@@ -89,7 +89,6 @@ boolean isTheConditionTrue(String condition){
 }
 I don't know why my coworker was laughing at me...
 
-
 Day 16:
 Dear diary,
 *scream*
@@ -139,6 +138,12 @@ I am no longer allowed to have a sandwich, an umbrella, or a bobble-head after t
 
 Day 24:
 My boss said I did a great job on the last project I did. I took it from the stick that I found in the washroom. Hope the owner of the stick doesn't find out!
+
+Day 25:
+Dear diary,
+A suspicious-of-my-brilliant-skills co-worker asked me to point an error in his code.
+I randomly pointed to a line. She shouted excitely, "Darn those semi-colons!! Thanks. You can go now."
+#IAmSoLuckyIAmInLoveWithMyself
 
 Day 27:
 Got asked to help with one of my coworker's code. I told him I was in a rush and will get back to him 30 mins later. He got the help from somebody else later. Thank god I'm safe again
