@@ -1,9 +1,11 @@
-﻿Premise: 
+﻿Premise:
 By some clerical error in WaterlooWorks, our protagonist got an offer from a big tech company as a Junior Software Developer. They know they are surely under-qualified, but what-the-hey, the proposition for free meals and unlimited snacks meant the offer was accepted anyways!  Write an day’s entry in their journal, as our protagonist fakes it till they make it!
 
 Day 1:
 Dear diary,
-What's this "Microsoft Word" that everyone keeps talking about? Probably not that important! 
+First time touching a computer! The mechanical keyboard sounds GREAT!!!
+
+What's this "Microsoft Word" that everyone keeps talking about? Probably not that important!
 
 Day 2:
 Dear diary,
@@ -11,11 +13,28 @@ I hope they don't find out how much I've lied on my resume! I honestly don't kno
 
 Day 3:
 Dear diary,
+honestly, I have no idea what this company does... what even is Google?
+
+writeen by: Gyeongwon Lee
+
+
 Got asked if my code was almost done this morning... am I supposed to be done? I still haven't finished the design recipe? Anyway, spent the rest of the day hiding on the toilet...... hope it goes better tomorrow.
+
+Day 4:
+Dear diary,
+I was stuck on a problem today. I went on stack overflow and copied the whole solution. It somehow worked. I am very happy.
+
+Day 5:
+Dear diary,
+Today I learned copy and paste! Ran into a little problem though: when I right clicked on a file and copied it on my computer and quickly unplug my mouse and plugged it on my colleague's computer and tried to paste the file, it didn't work!!! Why??? I thought I did it fast enough!
+[ Today my co-workers were talking something about a python. I'm really scared of snakes, so I was really scared when my manager told me to use a python to complete my project. ]
+
+_written by: [ Cooper Ang ]_
+___
 
 Day 6:
 Dear diary,
-Haven't left the toilet yet.... Not sure what to do from here. Toilet water has been keeping me hydrated, 
+Haven't left the toilet yet... Not sure what to do from here. Toilet water has been keeping me hydrated, 
 but I ran out of snacks 36 hours ago...
 
 Day 7:
@@ -27,6 +46,103 @@ Dear diary,
 woke up in the hospital today... guess they found me after I passed out and fell off the toilet?
 Hope I don't lose my job!
 
+Day 10:
+Dear Diary,
+My palms are sweaty//
+Knees weak, arms are heavy//
+I shouldn't have applied to this job//
+But I did it while eating mum's spagheti!//
+Written by : Lil Paul
+
+Day 11:
+Dead Diary, 
+But like..is everything free..
+Roses are red,
+Violets are blue,
+They're giving out free food,
+But where's my shirt?
+
+By: Kevin Pratama
+
+boolean isTheConditionTrue(String condition){
+  if(Boolean.toString(condition).equalsIgnoreCase("true")){
+    return true;
+  }
+}
+I don't know why my coworker was laughing at me...
+
+Day 12:
+Dear Diary,
+Let's git it!
+
+written by: Kevin Lee
+
+Day 15:
+Dear diary,
+Boss asked me to make a webpage for an upcoming event. 
+Had to ask my friend Joshua to do it at the cost of sharing the reward with him. 
+#FriendInNeedIsFriendIndeed
+
+Boss asked me to make a webpage for an upcoming event. Had to ask my friend Joshua to do it at the cost of sharing the reward with him. #FriendInNeedIsFriendIndeed
+boolean isTheConditionTrue(String condition){
+  if(Boolean.toString(condition).equalsIgnoreCase("true")){
+    return true;
+  }
+}
+I don't know why my coworker was laughing at me...
+
+
+Day 16:
+Dear diary,
+*scream*
+
+Day 17:
+Dear diary,
+My deskmate hid my stapler from me after yesterday.
+
+Day 18:
+Dear diary,
+don't know how but I'm still surviving.
+Hope I can get more FREE FOOD before they kick me out XD.
+written: Brandon Huh (BottleCold)
+
+Day 19:
+Dear diary,
+One of my coworkers lost his stick and I found it in the washroom. He has all his codes in it. If i steal these code I won't have any works for the next 3 days! Should I take it?
+
+Day 20:
+Dear Diary,
+
+I haven't had a single meal today.
+I am going to Lazezz after this.
+
+written by: Jiwook Kim
+
+Day 20.5:
+Dear, Diary,
+
+Never mind, Lazezz's closed...
+I'm going home.
+
+written by: Jiwook Kim
+
+Day 21:
+Dear diary,
+My co-worker Samuel "confessed" he was jealous of me since I have done such great projects. Little does he know he is more skilled than I am. He was maybe trying to make me feel nice, but instead I was feeling worse about myself. But whatever! As long I am sustaining myself, that's all that matters! #SelfCareIsImportant
+
+Day 22:
+I promise to submit the code today but I don't have anything done. Told them my mom had a car accident and I have to go to the hospital. I got the pessmison to submit it tomorror. 
+
 Day 23:
 Dear diary,
 I am no longer allowed to have a sandwich, an umbrella, or a bobble-head after today's incident. They say the stains'll come out. Eventually. And that the pencil-pushers are mostly in one piece.
+
+Day 24:
+My boss said I did a great job on the last project I did. I took it from the stick that I found in the washroom. Hope the owner of the stick doesn't find out!
+
+Day 27:
+Got asked to help with one of my coworker's code. I told him I was in a rush and will get back to him 30 mins later. He got the help from somebody else later. Thank god I'm safe again
+
+Day 30:
+Dear diary,
+Managed to survive the 30 day mark! No one's noticed yet! ;D Still don't know how to turn off the computer though. Mine's been on since I got there. :P 
