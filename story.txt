@@ -79,9 +79,7 @@ written by: Kevin Lee
 
 Day 15:
 Dear diary,
-Boss asked me to make a webpage for an upcoming event. 
-Had to ask my friend Joshua to do it at the cost of sharing the reward with him. 
-#FriendInNeedIsFriendIndeed
+Boss asked me to make a webpage for an upcoming event. Had to ask my friend Joshua to do it at the cost of sharing the reward with him. #FriendInNeedIsFriendIndeed
 
 Boss asked me to make a webpage for an upcoming event. Had to ask my friend Joshua to do it at the cost of sharing the reward with him. #FriendInNeedIsFriendIndeed
 boolean isTheConditionTrue(String condition){
@@ -146,3 +144,7 @@ Got asked to help with one of my coworker's code. I told him I was in a rush and
 Day 30:
 Dear diary,
 Managed to survive the 30 day mark! No one's noticed yet! ;D Still don't know how to turn off the computer though. Mine's been on since I got there. :P 
+
+Day 31:
+Dear diary,
+Jenny has been looking at me a lot lately. Either she's interested in me or she found out who I really am.
