@@ -184,3 +184,7 @@ Managed to survive the 30 day mark! No one's noticed yet! ;D Still don't know ho
 Day 31:
 Dear diary,
 Jenny has been looking at me a lot lately. Either she's interested in me or she found out who I really am.
+
+Day 32:
+Dear diary,
+Looks like things are slowing down here at Hacktoberfest but I really want a free T-shirt. Must keep checking in changes...
